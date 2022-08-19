@@ -20,6 +20,7 @@ ObjectID: FAD54D00 (The item id is 19925, provided by the API, this is converted
 Footer: 00 (A byte of 0s)
 
 Final hexadecimal value: 02fad54d0000
+
 Base64: AvrVTQAA
 
 Chat code: [&AvrVTQAA]
