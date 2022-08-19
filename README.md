@@ -21,6 +21,7 @@ Footer: 00 (A byte of 0s)
 
 Final hexadecimal value: 02fad54d0000
 Base64: AvrVTQAA
+
 Chat code: [&AvrVTQAA]
 
 There is room for improvement on this code, the code could be further optimised and also allow for more complex chat codes. However, this is the first version of the code.
